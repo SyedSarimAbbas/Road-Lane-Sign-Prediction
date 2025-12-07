@@ -159,7 +159,7 @@ Road-Lane-Sign-Prediction/
 ## 📈 Performance
 
 - Real-time detection on modern hardware
-- GPU acceleration supported (CUDA)
+- GPU acceleration supported (T4)
 - Optimized video processing pipeline
 
 ## 🤝 Contributing
